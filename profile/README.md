@@ -6,7 +6,8 @@ https://github.com/alpine-kde/teaiso/releases/tag/latest
 
 ## Features
 * Live iso (created by teaiso)
-* Low power usage (better for laptops)
+* Low power usage (optimize for laptops)
+* Btrfs support (powered by 17g)
 * Lite kde desktop environment
 
 ## Known bugs:
