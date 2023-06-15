@@ -2,8 +2,9 @@
 Alpine linux live for laptop devices.
 
 ## Download:
-https://github.com/alpine-live/kde/releases/tag/latest
-https://github.com/alpine-live/xfce/releases/tag/latest
+* kde https://github.com/alpine-live/kde/releases/tag/latest
+
+* xfce https://github.com/alpine-live/xfce/releases/tag/latest
 
 ## Features
 * Live iso (created by teaiso)
