@@ -1,14 +1,15 @@
-# Alpine live (kde edition)
+# Alpine live
 Alpine linux live for laptop devices.
 
 ## Download:
-https://github.com/alpine-kde/teaiso/releases/tag/latest
+https://github.com/alpine-live/kde/releases/tag/latest
+https://github.com/alpine-live/xfce/releases/tag/latest
 
 ## Features
 * Live iso (created by teaiso)
 * Low power usage (optimize for laptops)
 * Btrfs support (powered by 17g)
-* Lite kde desktop environment
+* Lite desktop environments
 
 ## Known bugs:
 * Automatic installation with 17g is broken
